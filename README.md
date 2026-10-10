@@ -38,7 +38,7 @@ Developing practical expertise in data analysis, business intelligence, SQL, Pyt
 
 ## Professional Links
 
-- **LinkedIn:** Add your LinkedIn profile URL
-- **GitHub:** Add your GitHub profile URL
+- **LinkedIn:** linkedin.com/in/aneena-km-27a48932b  
+- **GitHub:** github.com/aneenakm
 
 I welcome opportunities to contribute to data analytics, business intelligence, and software development projects while continuing to grow as a technology professional.
